@@ -1,4 +1,4 @@
-##SPARC Workshop (3 Days: 23-25 June)
+SPARC Workshop (3 Days: 23-25 June)
 
 What tinyML can learn from Neuromorphic Engineering?
 
